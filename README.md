@@ -1,1 +1,1 @@
-# secstrlm
+# Bir İkincil Yapı Geniş Dil Modeli Denemesi
